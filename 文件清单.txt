@@ -1,0 +1,8 @@
+total 32
+-rwxrwxrwx 1 qiming qiming 3415 Oct  8 15:33 南京万迅-打招呼.md
+-rwxrwxrwx 1 qiming qiming 3689 Oct  7 16:43 孚乔图科技-打招呼.md
+-rwxrwxrwx 1 qiming qiming 5671 Oct  7 17:02 新天科技-打招呼.md
+-rwxrwxrwx 1 qiming qiming 5671 Oct  7 16:57 江苏学蠡信息科技-打招呼.md
+-rwxrwxrwx 1 qiming qiming 3775 Oct  8 15:16 通用-海投版-打招呼.md
+-rwxrwxrwx 1 qiming qiming 2529 Oct  8 15:38 雪辰星航-打招呼.md
+Thu Oct  8 19:49:31 CST 2026
