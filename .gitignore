@@ -6,6 +6,9 @@ a.out
 app
 p1
 p2
+/hello/hello
+hello2
+warn
 
 # 临时文件
 t.txt
