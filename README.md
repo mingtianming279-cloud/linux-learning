@@ -31,4 +31,4 @@ make
 
 - 产物只在 WSL2 (x86-64) 下编译运行，未覆盖交叉编译到 ARM
 - calc 模块是逻辑搬运，未接 STM32 硬件（硬件侧在 smart_watch 仓库）
-- GitHub 账号改名 qiming-dev 未做（remote 同步待办）；线上推送因代理未开顺延
+- GitHub 账号改名 qiming-dev 未做（remote 暂挂 mingtianming279-cloud）
